@@ -1,0 +1,4 @@
+secrets.txt
+
+#  used to comment
+# *.txt will be used to ignore all files with an extension of txt
